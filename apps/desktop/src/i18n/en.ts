@@ -2577,10 +2577,6 @@ export const en: Translations = {
 
   preview: {
     tab: 'Preview',
-    closeTab: label => `Close ${label}`,
-    closeOthers: 'Close others',
-    closeToRight: 'Close to the right',
-    closeAll: 'Close all',
     closePane: 'Close preview pane',
     loading: 'Loading preview',
     unavailable: 'Preview unavailable',
